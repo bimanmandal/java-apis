@@ -4,6 +4,11 @@
 >Annotations, a form of metadata, provide data about a program that is not part of the program itself. 
 >Annotations have no direct effect on the operation of the code they annotate.
 
+### Annotations use
+1. Annotations can be used by the compiler to detect errors or suppress warnings.
+2. Software tools can process annotation information to generate code, XML files, and so forth.
+3. Some annotations are available to be examined at runtime.
+
 
 ### Different Format of Annotation
 ```java
