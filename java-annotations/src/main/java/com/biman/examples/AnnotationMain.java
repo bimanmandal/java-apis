@@ -3,7 +3,6 @@ package com.biman.examples;
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
-import java.util.Arrays;
 
 public class AnnotationMain {
     public static void main(String[] args) throws IllegalAccessException {
