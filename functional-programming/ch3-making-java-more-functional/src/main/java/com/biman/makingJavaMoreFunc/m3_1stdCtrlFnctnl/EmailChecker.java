@@ -1,4 +1,4 @@
-package com.biman.stdCtrlFnctnl;
+package com.biman.makingJavaMoreFunc.m3_1stdCtrlFnctnl;
 
 import java.util.regex.Pattern;
 

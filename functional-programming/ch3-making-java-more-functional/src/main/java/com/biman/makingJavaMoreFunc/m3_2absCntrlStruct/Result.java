@@ -1,4 +1,4 @@
-package com.biman.absCntrlStruct;
+package com.biman.makingJavaMoreFunc.m3_2absCntrlStruct;
 
 public interface Result {
 
