@@ -2,6 +2,7 @@ package com.biman.dealingWithOptionalData.m6_3OptionDataType.s6_1;
 
 public abstract class Option<A> {
 
+
   @SuppressWarnings("rawtypes")
   private static Option none = new None();
   public abstract A getOrThrow();
@@ -42,7 +43,6 @@ public abstract class Option<A> {
     public A getOrElse(A defaultValue) {
       return this.value;
     }
-
     @Override
     public String toString() {
       return String.format("Some(%s)", this.value);
